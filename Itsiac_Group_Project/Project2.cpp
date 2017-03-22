@@ -51,7 +51,7 @@ void Header(ofstream &Outfile)
 	Outfile << setw(15) << "Section 11" << endl;
 	Outfile << setw(27) << "Spring 2017";
 	Outfile << setw(30) << "Assignment #2";
-	Outfile << setw(35) << "---------------------------------- - ";
+	Outfile << setw(35) << "---------------Testing Junk------------------- - ";
 	Outfile << setw(35) << "---------------------------------- - " << endl << endl;
 	lineCount += 4;
 	return;
