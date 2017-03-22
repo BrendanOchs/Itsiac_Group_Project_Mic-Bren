@@ -49,7 +49,7 @@ void Header(ofstream &Outfile)
 	Outfile << setw(35) << "Names go here!!!!!!!!!!!";
 	Outfile << setw(17) << "Class goes here";
 	Outfile << setw(15) << "Section 11" << endl;
-	Outfile << setw(27) << "Spring 50000000000000000";
+	Outfile << setw(27) << "Spring 3027";
 	Outfile << setw(30) << "Assignment #2" << endl;
 	Outfile << setw(35) << "---------------------------------- - ";
 	Outfile << setw(35) << "---------------------------------- - " << endl << endl;
