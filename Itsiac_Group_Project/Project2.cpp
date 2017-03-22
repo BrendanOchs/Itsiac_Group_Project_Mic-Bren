@@ -48,9 +48,9 @@ void Header(ofstream &Outfile)
 		// Returns - Nothing
 	Outfile << setw(35) << "Brendan and Micaiah";
 	Outfile << setw(17) << "Class goes here";
-	Outfile << setw(15) << "Section 1111111111111111111111" << endl;
+	Outfile << setw(15) << "Section 11" << endl;
 	Outfile << setw(27) << "Spring 2017";
-	Outfile << setw(30) << "Assignment #20000000dl";
+	Outfile << setw(30) << "Assignment #2";
 	Outfile << setw(35) << "---------------------------------- - ";
 	Outfile << setw(35) << "---------------------------------- - " << endl << endl;
 	lineCount += 4;
