@@ -83,14 +83,8 @@ void getData(ifstream &dataIN) {
 	while (newItem > 0) { //Read in integers until the last negative value is reached
 
 
-
-
-
-
+		
 	}
-
-
-
 }
 //************************************* END OF FUNCTION FOOTER  ***************************************
 
