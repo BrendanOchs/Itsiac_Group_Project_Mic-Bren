@@ -49,7 +49,7 @@ void Header(ofstream &Outfile)
 	Outfile << setw(35) << "Brendan and Micaiah";
 	Outfile << setw(17) << "Class goes here";
 	Outfile << setw(15) << "Section 11" << endl;
-	Outfile << setw(27) << "Spring 2017";
+	Outfile << setw(27) << "spring 100000000";
 	Outfile << setw(30) << "Assignment #2" << endl;
 	Outfile << setw(35) << "---------------------------------- - ";
 	Outfile << setw(35) << "---------------------------------- - " << endl << endl;
