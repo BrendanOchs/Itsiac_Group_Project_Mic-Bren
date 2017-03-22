@@ -46,7 +46,7 @@ void Header(ofstream &Outfile)
 {       // Receives – the output file
 		// Task - Prints the output preamble
 		// Returns - Nothing
-	Outfile << setw(35) << "Brenden Ochs & Micaiah Skolnick ";
+	Outfile << setw(35) << "Brenden & Micaiah Skolnick ";
 	Outfile << setw(17) << "CSC 40600";
 	Outfile << setw(15) << "Section 11" << endl;
 	Outfile << setw(27) << "Spring 2017";
@@ -110,7 +110,7 @@ int main() {
 	lineCount = 0;
 	MAXLINECOUNT = 54; //Set the max number of lines which fit on a page
 	ifstream dataIN("Data_in.txt"); //Open the file containing data.
-	ofstream dataOUT("dataOUT.doc"); //Create and open the file to write data to.		
+	ofstream dataOUT("dataOUT.txt"); //Create and open the file to write data to.		
 	Header(dataOUT);// Print data header.
 	getData(dataIN); //Retrieve data from input file
 	//processData(dataOUT, dataIN); // Process each section of data from the input file.
