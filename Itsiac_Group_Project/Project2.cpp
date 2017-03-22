@@ -47,7 +47,7 @@ void Header(ofstream &Outfile)
 		// Task - Prints the output preamble
 		// Returns - Nothing
 	Outfile << setw(35) << "Names go here!!!!!!!!!!!";
-	Outfile << setw(17) << "CSC 40600";
+	Outfile << setw(17) << "Class goes here";
 	Outfile << setw(15) << "Section 11" << endl;
 	Outfile << setw(27) << "Spring 2017";
 	Outfile << setw(30) << "Assignment #2" << endl;
