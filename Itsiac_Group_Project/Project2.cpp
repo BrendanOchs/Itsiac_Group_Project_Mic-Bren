@@ -64,7 +64,7 @@ void Footer(ofstream &Outfile){
 		// Returns - Nothing
 	Outfile << endl;
 	Outfile << setw(35) << "-------------------------------- - " << endl;
-	Outfile << setw(35) << " | END OF PROGRAM OUTPUT | " << endl;
+	Outfile << setw(35) << " | You are a TWAT | " << endl;
 	Outfile << setw(35) << "-------------------------------- - " << endl;
 	lineCount += 4;
 	return;
