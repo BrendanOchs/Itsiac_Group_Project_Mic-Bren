@@ -64,7 +64,11 @@ void Footer(ofstream &Outfile){
 		// Returns - Nothing
 	Outfile << endl;
 	Outfile << setw(35) << "-------------------------------- - " << endl;
+<<<<<<< HEAD
     // Micaiah's change #2
+=======
+ // Micaiah's change #3
+>>>>>>> m-Skolnick/master
 	Outfile << setw(35) << "-------------------------------- - " << endl;
 	lineCount += 4;
 	return;
